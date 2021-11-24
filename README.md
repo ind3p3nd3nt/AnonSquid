@@ -2,4 +2,4 @@
 Highly Anonymous Squid Proxy Configuration for Linux.
 
 ## installation
-### wget is.gd/highsquid && sh highsquid
+### wget is.gd/anonsquid && sh anonsquid
